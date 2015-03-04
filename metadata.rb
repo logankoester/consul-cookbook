@@ -20,7 +20,6 @@ supports 'ubuntu', '= 12.04'
 supports 'ubuntu', '= 14.04'
 
 depends 'libarchive'
-depends 'chef-provisioning'
 depends 'golang', '~> 1.4'
 depends 'runit'
 depends 'yum-repoforge'
